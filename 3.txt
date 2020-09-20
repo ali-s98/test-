@@ -1,1 +1,6 @@
 Ali branch
+<<<<<<< HEAD
+=======
+Qqqqqqqdddddddd
+Dddddddddd 
+>>>>>>> ali
